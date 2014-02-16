@@ -112,6 +112,7 @@
         "use-isnan": 2,
         "valid-jsdoc": 0,
         "wrap-iife": 0,
-        "wrap-regex": 0
+        "wrap-regex": 0,
+        "no-underscore": 1
     }
 }
